@@ -363,9 +363,3 @@ If you are new to machine learning, here is a quick glossary of terms used throu
 | **Overfitting** | When a model performs great on training data but poorly on new data — it memorized instead of learned |
 | **Dropout** | A regularization technique that randomly disables neurons during training to prevent overfitting |
 | **Softmax** | An activation function for the output layer that converts raw scores into probabilities summing to 1 |
-
----
-
-## Keywords
-
-`machine-learning` `deep-learning` `neural-network` `mnist` `image-classification` `tensorflow` `keras` `python` `jupyter-notebook` `sgd` `relu` `sigmoid` `tanh` `softmax` `overfitting` `regularization` `hyperparameter-tuning` `classification` `digit-recognition` `feedforward-network`
