@@ -1,4 +1,4 @@
-# MNIST Handwritten Digit Recognition — Neural Network from Scratch
+# MNIST Handwritten Digit Recognition - Neural Network from Scratch
 
 A systematic exploration of feedforward neural networks applied to the classic MNIST handwritten digit recognition problem. This project builds 14 progressively complex models — starting from zero hidden layers and raw gradient descent, all the way to deep 3-layer networks — to understand **how architecture, batch size, activation functions, and training duration each affect performance**.
 
